@@ -1,5 +1,5 @@
 # Physics-Calculator
-This is a python script designed to streamline physics calculations on timed exams.
+This is a python script designed to streamline physics calculations on timed exams. Since most FRQ's, especially in AP Physics, require you to show work, these scripts won't be of much use there. Their main purpose can be used in multiple choice questions where saving time is important and no work is required. 
 
 
 # Terms

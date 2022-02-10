@@ -1,0 +1,13 @@
+Basic Features: 
+1. Compatibility with all three kinematic equations
+2. Compatibility with elastic, inelasitc, perfectly inelasitc, and explosion collisions
+3. Center of mass calculations
+
+
+
+Advanced Features:
+1. Calculate impulse and work using integration of a given function
+2. Calculations for a block sliding down an inclined plane with friction
+3. Calculations for a coinical pendulum or banked curve
+4. Calculations for ballistic pendulums
+5. Raft with internal forces problem
