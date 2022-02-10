@@ -2,7 +2,7 @@ Basic Features:
 1. Compatibility with all three kinematic equations
 2. Compatibility with elastic, inelasitc, perfectly inelasitc, and explosion collisions
 3. Center of mass calculations
-
+4. Centripetal force calculations
 
 
 Advanced Features:
@@ -11,3 +11,4 @@ Advanced Features:
 3. Calculations for a coinical pendulum or banked curve
 4. Calculations for ballistic pendulums
 5. Raft with internal forces problem
+6. Learn how to use and implement the SymPy function for variable processing
